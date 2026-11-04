@@ -22,6 +22,8 @@ All addons are MIT-licensed and [open source](https://github.com/justadakaje/wow
 - [Absent from the Docs, Present in the Client: Mapping WoW Forever's Real API Surface](https://musingsofmy.today/2026/09/24/wow-forever-api-surface-build-69913/)
 - [The Illusion of Containment: Engineering Lessons from the 2026 AI Sandbox Breaches](https://musingsofmy.today/2026/09/10/ai-sandbox-containment-hugging-face-artifactory-breach/) · 🎧 *Runtime Reality* S26.E0909
 
+🎧 **Podcasts:** [Runtime Reality](https://podcasts.apple.com/us/podcast/runtime-reality/id1887004265), infrastructure and AI post-mortems in plain English · [The Chronos Archive](https://podcasts.apple.com/us/podcast/the-chronos-archive/id1831231439), where history collides with modern systems
+
 #### 📡 Elsewhere
 
 [Twitch](https://twitch.tv/kenhenchan) · [YouTube](https://www.youtube.com/@KenHenChan) · [Blog](https://musingsofmy.today) · [Threads](https://www.threads.com/@kjhenseler) · [LinkedIn](https://www.linkedin.com/in/kennethhenseler)
